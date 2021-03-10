@@ -6,7 +6,7 @@ Image processing developer who likes various works
 
 Item               | Agency                | Name                  | Used Language         | Release Date             | Status
 -----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-Machine Vision  | [TopEnginerring](http://topengnet.co.kr) | `LCDispInsp` | `C++` | 2015/6 | Top Secrete |
+Machine Vision  | [TopEnginerring](http://topengnet.co.kr) | `LCNozzleInsp` | `C++` | 2015/6 | Top Secrete |
 Machine Vision  | [TopEnginerring](http://topengnet.co.kr) | `IJPNozzleVision` | `C++, C#` | 2016/9 | Top Secrete |
 Library         | [APSystem](http://www.apsystems.co.kr)   | `AlignDLL` | `C++`| 2017/11 | Top Secrete |
 Machine Vision  | [APSystem](http://www.apsystems.co.kr)   | `BPLInspect` | `C++, C#`| 2018/6 | Top Secrete |

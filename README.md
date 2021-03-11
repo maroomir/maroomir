@@ -4,7 +4,7 @@
 
 ### Portfolio
 
-Item               | Agency                | Name                  | Used Language         | Release             | Status
+Item               | Agency                | Name                  | Language         | Release             | Status
 -----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 Machine Vision  | [TopEnginerring](http://topengnet.co.kr) | `LCNozzleInsp` | `C++` | 2015/06 | T/S |
 Machine Vision  | [TopEnginerring](http://topengnet.co.kr) | `IJPNozzleVision` | `C++, C#` | 2016/09 | T/S |

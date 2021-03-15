@@ -1,6 +1,6 @@
 ## MAROOMIR YOON : Industrial and robotics vision developer
 
-#### Image processing developer who likes various works
+#### Image processing developer who tries at will
 
 ### Portfolio
 

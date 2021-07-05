@@ -1,6 +1,7 @@
 ## MAROOMIR YOON : Industrial and robotics vision developer
 
 #### Image processing developer who tries at will
+#### I'm currently working on a [personal project](https://github.com/maroomir/YoonFactory) to improve my development skill
 
 ### Portfolio
 

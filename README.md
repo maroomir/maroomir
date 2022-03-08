@@ -1,7 +1,6 @@
 ## MAROOMIR YOON : Industrial and robotics vision developer
 
-#### Image processing developer who tries at will
-#### Robotics and server automation, too...
+#### A programmer who develops anything as soon as possible
 
 ### Portfolio
 
@@ -24,4 +23,4 @@ Automation Script | [LGE](https://www.lge.co.kr/)            | `JCIManager` | `J
 Automation Script | [LGE](https://www.lge.co.kr/)            | `PyCIManager` | `Python` | 2021/11 | T/S
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `yolov5_the_eye` | `Python` | 2021/12 | [public](https://github.com/maroomir/yolov5_the_eye) |
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `ScoopLearner` | `Python` | 2021/12 | [public](https://github.com/maroomir/ScoopLearner) |
-Simulation        | [maroomir](https://github.com/maroomir/) | `RobotArmSimulator` | `C#` | 2022/03 | [public](https://github.com/maroomir/RobotArmSimulator) |
+Robot Simulation  | [maroomir](https://github.com/maroomir/) | `RobotArmSimulator` | `C#` | 2022/03 | [public](https://github.com/maroomir/RobotArmSimulator) |

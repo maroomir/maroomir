@@ -17,6 +17,7 @@ Robotics Control  | [LGE](https://www.lge.co.kr/)            | `KESBarista`  | `
 Library           | [maroomir](https://github.com/maroomir/) | `YoonFactory` | `C++, C#`| 2021/03 | [Public](https://github.com/maroomir/YoonFactory) |
 Library           | [maroomir](https://github.com/maroomir/) | `YoonFactory.Java` | `Java`| 2021/03 | [public](https://github.com/maroomir/YoonFactory.Java) |
 Library           | [maroomir](https://github.com/maroomir/) | `YoonPytory` | `Python`| 2021/04 | [public](https://github.com/maroomir/YoonPytory) |
+Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `FastMRI` | `Python` | 2021/04 | [public](https://github.com/maroomir/fastMRI) |
 Library           | [maroomir](https://github.com/maroomir/) | `YoonFactory.Droid` | `Java`| 2021/05 | [public](https://github.com/maroomir/YoonFactory.Droid) |
 Library           | [maroomir](https://github.com/maroomir/) | `YoonFactory.Net` | `C#`| 2021/07 | [public](https://github.com/maroomir/YoonFactory.Net) |
 Automation Script | [LGE](https://www.lge.co.kr/)            | `JCIManager` | `Java` | 2021/08 | T/S

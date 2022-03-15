@@ -13,7 +13,7 @@ Machine Vision    | [APSystem](http://www.apsystems.co.kr)   | `BPLInspect` | `C
 Rototics Soultion | [LGE](https://www.lge.co.kr/)            | `MMSCtrl` | `C#`| 2020/06 | T/S |
 Rototics Vision   | [LGE](https://www.lge.co.kr/)            | `RobotIntegrateVision` | `C#`| 2020/12 | T/S |
 Robotics Soultion | [LGE](https://www.lge.co.kr/)            | `KESBarista`  | `Codesys` | 2020/12 | T/S |
-Library           | [maroomir](https://github.com/maroomir/) | `YoonFactory` | `C++, C#`| 2021/03 | [Public](https://github.com/maroomir/YoonFactory) |
+Library           | [maroomir](https://github.com/maroomir/) | `YoonFactory` | `C++, C#`| 2021/01 | [Public](https://github.com/maroomir/YoonFactory) |
 Library           | [maroomir](https://github.com/maroomir/) | `YoonFactory.Java` | `Java`| 2021/03 | [public](https://github.com/maroomir/YoonFactory.Java) |
 Library           | [maroomir](https://github.com/maroomir/) | `YoonPytory` | `Python`| 2021/04 | [public](https://github.com/maroomir/YoonPytory) |
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `FastMRI` | `Python` | 2021/04 | [public](https://github.com/maroomir/fastMRI) |

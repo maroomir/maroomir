@@ -7,7 +7,7 @@
 Item               | Agency                | Name                  | Language         | Release             | Status
 -----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 Machine Vision    | [TopEnginerring](http://topengnet.co.kr) | `LCNozzleInsp` | `C++` | 2015/06 | - |
-Machine Vision    | [TopEnginerring](http://topengnet.co.kr) | `IJPNozzleVision` | `C++, C#` | 2016/09 | - |
+Machine Vision    | [TopEnginerring](http://topengnet.co.kr) | `IJPNozzleVision` | `C++` | 2016/09 | - |
 Library           | [APSystem](http://www.apsystems.co.kr)   | `AlignDLL` | `C++`| 2017/11 | - |
 Machine Vision    | [APSystem](http://www.apsystems.co.kr)   | `BPLInspect` | `C++, C#`| 2018/06 | - |
 Rototics Soultion | [LGE](https://www.lge.co.kr/)            | `MMSCtrl` | `C#`| 2020/06 | - |

@@ -26,4 +26,4 @@ Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `yolov5_the_
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `ScoopLearner` | `Python` | 2021/12 | [public](https://github.com/maroomir/ScoopLearner) |
 Robot Simulation  | [maroomir](https://github.com/maroomir/) | `RobotArmSimulator` | `C#` | 2022/03 | [public](https://github.com/maroomir/RobotArmSimulator) |
 Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtGallery` | `C#` | 2022/12 | -
-Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtServer` | `python` | 2022/12 | -
+Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtServer` | `python` | 2022/12 | [public](https://github.com/maroomir/MetaArtServer)

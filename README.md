@@ -24,6 +24,6 @@ Automation Script | [LGE](https://www.lge.co.kr/)            | `JCIManager` | `J
 Automation Script | [LGE](https://www.lge.co.kr/)            | `PyCIManager` | `Python` | 2021/11 | -
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `yolov5_the_eye` | `Python` | 2021/12 | [public](https://github.com/maroomir/yolov5_the_eye) |
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `ScoopLearner` | `Python` | 2021/12 | [public](https://github.com/maroomir/ScoopLearner) |
-Robot Simulation  | [maroomir](https://github.com/maroomir/) | `RobotArmSimulator` | `C#` | 2022/03 | [public](https://github.com/maroomir/RobotArmSimulator) |
-Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtGallery` | `C#` | 2022/12 | -
+Unity Simulation  | [maroomir](https://github.com/maroomir/) | `RobotArmSimulator` | `C#` | 2022/03 | [public](https://github.com/maroomir/RobotArmSimulator) |
+Unity Simulation  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtGallery` | `C#` | 2022/12 | [private](https://github.com/maroomir/MetaArtGallery)
 Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtServer` | `python` | 2022/12 | [public](https://github.com/maroomir/MetaArtServer)

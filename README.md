@@ -28,4 +28,4 @@ Unity Simulation  | [maroomir](https://github.com/maroomir/) | `RobotArmSimulato
 Unity Simulation  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtGallery` | `C#` | 2022/10 | [public](https://github.com/maroomir/MetaArtGallery) |
 Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtServer` | `python` | 2022/11 | [public](https://github.com/maroomir/MetaArtServer)
 Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtClient` | `python` | 2022/12 | [public](https://github.com/maroomir/MetaArtClient)
-Library        | [maroomir](https://github.com/maroomir/) | `yoonfactory` | `C++`, `python` | 2023/12 | [public](https://github.com/maroomir/yoonfactory) |
+Library        | [maroomir](https://github.com/maroomir/) | `YoonFactory` | `C++`, `python` | 2023/12 | [public](https://github.com/maroomir/YoonFactory) |

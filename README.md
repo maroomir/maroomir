@@ -1,8 +1,22 @@
-## MAROOMIR YOON : Industrial and robotics vision developer
+# MAROOMIR YOON<br>(Industrial and robotics vision developer)
 
-#### A programmer who develops anything as soon as possible
+A programmer who develops anything as soon as possible
 
-### Portfolio
+---
+
+## Repositories
+
+### [playground](https://github.com/maroomir/playground)
+
+Collected while studying many fields
+
+### [tools](https://github.com/maroomir/tools)
+
+Scripts for git management and automation
+
+---
+
+## Portfolio
 
 Item               | Agency                | Name                  | Language         | Release             | Status
 -----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
@@ -29,3 +43,4 @@ Unity Simulation  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtGall
 Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtServer` | `python` | 2022/11 | [public](https://github.com/maroomir/MetaArtServer)
 Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtClient` | `python` | 2022/12 | [public](https://github.com/maroomir/MetaArtClient)
 Library        | [maroomir](https://github.com/maroomir/) | `YoonFactory` | `C++`, `python` | 2023/12 | [public](https://github.com/maroomir/YoonFactory) |
+

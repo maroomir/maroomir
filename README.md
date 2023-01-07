@@ -2,16 +2,10 @@
 
 A programmer who develops anything as soon as possible
 
----
-
-## Repositories
-
 ### [playground](https://github.com/maroomir/playground)
-
 Collected while studying many fields
 
 ### [tools](https://github.com/maroomir/tools)
-
 Scripts for git management and automation
 
 ---

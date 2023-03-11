@@ -37,7 +37,7 @@ Unity Simulation  | [maroomir](https://github.com/maroomir/) | `RobotArmScooper`
 Unity Simulation  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtGallery` | `C#` | 2022/10 | [public](https://github.com/maroomir/MetaArtGallery) |
 Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtServer` | `python` | 2022/11 | [public](https://github.com/maroomir/MetaArtServer/tree/dalle)
 Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtClient` | `python` | 2022/12 | [public](https://github.com/maroomir/MetaArtClient)
-Deep Learning | - | `snpe-object-detection` | `c++` | 2023/01 | -
-Embedded Application | - | `qrbviewer` | `c++` | 2023/04 | -
+Deep Learning | - | `snpe-object-detection` | `C++` | 2023/01 | -
+Embedded Application | - | `qrbviewer` | `C++` | 2023/04 | -
 Library        | [maroomir](https://github.com/maroomir/) | `YoonFactory` | `C++`, `python` | 2023/12 | [public](https://github.com/maroomir/YoonFactory) |
 Deep Learning  | [maroomir](https://github.com/maroomir/) | `MetaArtServer2` | `python` | 2023/12 | [public](https://github.com/maroomir/MetaArtServer)

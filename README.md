@@ -39,5 +39,6 @@ Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtServer`
 Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtClient` | `python` | 2022/12 | [public](https://github.com/maroomir/MetaArtClient)
 Deep Learning | - | `snpe-object-detection` | `C++` | 2023/01 | -
 Embedded Application | - | `qrbviewer` | `C++` | 2023/04 | -
+Embedded Application | - | `qrb-lidar-tester` | `C++` | 2023/05 | -
 Library        | [maroomir](https://github.com/maroomir/) | `YoonFactory` | `C++`, `python` | 2023/12 | [public](https://github.com/maroomir/YoonFactory) |
 Deep Learning  | [maroomir](https://github.com/maroomir/) | `MetaArtServer2` | `python` | 2023/12 | [public](https://github.com/maroomir/MetaArtServer)

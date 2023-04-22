@@ -4,11 +4,6 @@ A programmer who develops anything as soon as possible
 
 ---
 
-## [playground](https://github.com/maroomir/playground)
-Collected while studying many fields
-
----
-
 ## Portfolio
 
 

@@ -7,8 +7,8 @@ A programmer who develops anything as soon as possible
 ## Portfolio
 
 
-Item               | Agency                | Name                  | Language         | Release             | Status
------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+Item              | Agency                | Name                  | Language         | Release             | Status
+------------------|-----------------------|-----------------------|------------------|---------------------|-----------------------|
 Machine Vision    | [TopEnginerring](http://topengnet.co.kr) | `LCNozzleInsp` | `C++` | 2015/06 | - |
 Machine Vision    | [TopEnginerring](http://topengnet.co.kr) | `IJPNozzleVision` | `C++` | 2016/09 | - |
 Library           | [APSystem](http://www.apsystems.co.kr)   | `AlignDLL` | `C++`| 2017/11 | - |
@@ -23,18 +23,18 @@ Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `FastMRI` | 
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `BraTS3D` | `Python` | 2021/06 | [public](https://github.com/maroomir/BraTS3D) |
 Library           | [maroomir](https://github.com/maroomir/) | `YoonFactory.Droid` | `Java`| 2021/06 | [public](https://github.com/maroomir/YoonFactory.Droid) |
 Library           | [maroomir](https://github.com/maroomir/) | `YoonFactory.Net` | `C#`| 2021/07 | [public](https://github.com/maroomir/YoonFactory.Net) |
-Automation Script | [LGE](https://www.lge.co.kr/)            | `JCIManager` | `Java` | 2021/08 | -
-Automation Script | [LGE](https://www.lge.co.kr/)            | `PyCIManager` | `Python` | 2021/11 | -
+CI/CD             | [LGE](https://www.lge.co.kr/)            | `JCIManager` | `Java` | 2021/08 | -
+CI/CD             | [LGE](https://www.lge.co.kr/)            | `PyCIManager` | `Python` | 2021/11 | -
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `yolov5_the_eye` | `Python` | 2021/12 | [public](https://github.com/maroomir/yolov5_the_eye) |
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `ScoopLearner` | `Python` | 2021/12 | [public](https://github.com/maroomir/ScoopLearner) |
 Unity Simulation  | [maroomir](https://github.com/maroomir/) | `RobotArmSimulator` | `C#` | 2022/03 | [public](https://github.com/maroomir/RobotArmSimulator) |
 Unity Simulation  | [maroomir](https://github.com/maroomir/) | `RobotArmScooper` | `C#` | 2022/04 | [public](https://github.com/maroomir/RobotArmScooper) |
 Unity Simulation  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtGallery` | `C#` | 2022/10 | [public](https://github.com/maroomir/MetaArtGallery) |
-Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtServer` | `python` | 2022/11 | [public](https://github.com/maroomir/MetaArtServer/tree/dalle)
-Deep Learning  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtClient` | `python` | 2022/12 | [public](https://github.com/maroomir/MetaArtClient)
-Deep Learning | - | `snpe-object-detection` | `C++` | 2023/01 | -
-Embedded Application | - | `qrbviewer` | `C++` | 2023/04 | -
-Embedded Application | - | `qrb-lidar-tester` | `C++` | 2023/06 | -
-ROS Application | - | `ros2-camera-publisher` | `C++` | 2023/08 | -
-Library        | [maroomir](https://github.com/maroomir/) | `yoonimage` | `C++` | 2023/12 | - |
-Deep Learning  | [maroomir](https://github.com/maroomir/) | `MetaArtServer2` | `python` | 2023/12 | [public](https://github.com/maroomir/MetaArtServer)
+Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtServer` | `python` | 2022/11 | [public](https://github.com/maroomir/MetaArtServer/tree/dalle)
+Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtClient` | `python` | 2022/12 | [public](https://github.com/maroomir/MetaArtClient)
+Deep Learning     | - | `snpe-object-detection` | `C++` | 2023/01 | -
+Embedded Solution | - | `qrbviewer` | `C++` | 2023/04 | -
+Embedded Solution | - | `qrb-lidar-tester` | `C++` | 2023/06 | -
+ROS Application   | - | `ros2-camera-publisher` | `C++` | 2023/08 | -
+Library           | [maroomir](https://github.com/maroomir/) | `yoonimage` | `C++` | 2023/12 | - |
+Deep Learning     | [maroomir](https://github.com/maroomir/) | `MetaArtServer2` | `python` | 2023/12 | [public](https://github.com/maroomir/MetaArtServer)

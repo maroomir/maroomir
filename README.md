@@ -38,5 +38,7 @@ Embedded Solution | - | `qrb-lidar-tester` | `C++` | 2023/06 | -
 ROS Application   | - | `ros2-gst-streamer` | `C++` | 2023/06 | -
 ROS Application   | - | `ros2-camera-publisher` | `C++` | 2023/08 | -
 ROS Application   | - | `ros2-itof-camera-tuner` | `C++` | 2023/08 | -
+ROS Application   | - | `depth-camera-launcher` | `C++` | 2023/09 | -
+ROS Application   | - | `qr-camera-tuner` | `C++` | 2023/10 | -
 Library           | [maroomir](https://github.com/maroomir/) | `yoonimage` | `C++` | 2023/12 | - |
 Deep Learning     | [maroomir](https://github.com/maroomir/) | `MetaArtServer2` | `python` | 2023/12 | [public](https://github.com/maroomir/MetaArtServer)

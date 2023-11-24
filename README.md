@@ -32,13 +32,14 @@ Unity Simulation  | [maroomir](https://github.com/maroomir/) | `RobotArmScooper`
 Unity Simulation  | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtGallery` | `C#` | 2022/10 | [public](https://github.com/maroomir/MetaArtGallery) |
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtServer` | `python` | 2022/11 | [public](https://github.com/maroomir/MetaArtServer/tree/dalle)
 Deep Learning     | [YonseiUniversity](https://www.yonsei.ac.kr/) | `MetaArtClient` | `python` | 2022/12 | [public](https://github.com/maroomir/MetaArtClient)
-Deep Learning     | - | `snpe-object-detection` | `C++` | 2023/01 | -
-Embedded Solution | - | `qrbviewer` | `C++` | 2023/04 | -
-Embedded Solution | - | `qrb-lidar-tester` | `C++` | 2023/06 | -
-ROS Application   | - | `ros2-gst-streamer` | `C++` | 2023/06 | -
-ROS Application   | - | `ros2-camera-publisher` | `C++` | 2023/08 | -
-ROS Application   | - | `ros2-itof-camera-tuner` | `C++` | 2023/08 | -
-ROS Application   | - | `depth-camera-launcher` | `C++` | 2023/09 | -
-ROS Application   | - | `qr-camera-tuner` | `C++` | 2023/10 | -
+Deep Learning     | [Samsung](https://www.samsung.com/sec/) | `snpe-object-detection` | `C++` | 2023/01 | -
+Embedded Solution | [Samsung](https://www.samsung.com/sec/) | `qrbviewer` | `C++` | 2023/04 | -
+Embedded Solution | [Samsung](https://www.samsung.com/sec/) | `qrb-lidar-tester` | `C++` | 2023/06 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ros2-gst-streamer` | `C++` | 2023/06 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ros2-camera-publisher` | `C++` | 2023/08 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ros2-itof-camera-tuner` | `C++` | 2023/08 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `depth-camera-launcher` | `C++` | 2023/09 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `qr-camera-tuner` | `C++` | 2023/10 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ros2-snpe-object-detector` | `C++` | 2023/12 | -
 Library           | [maroomir](https://github.com/maroomir/) | `yoonimage` | `C++` | 2023/12 | - |
-Deep Learning     | [maroomir](https://github.com/maroomir/) | `MetaArtServer2` | `python` | 2023/12 | [public](https://github.com/maroomir/MetaArtServer)
+Deep Learning     | [maroomir](https://github.com/maroomir/) | `MetaArtServer2` | `python` | 2024/06 | [public](https://github.com/maroomir/MetaArtServer)

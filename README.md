@@ -42,4 +42,3 @@ ROS Application   | [Samsung](https://www.samsung.com/sec/) | `depth-camera-laun
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `qr-camera-tuner` | `C++` | 2023/10 | -
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ros2-snpe-object-detector` | `C++` | 2023/12 | -
 Library           | [maroomir](https://github.com/maroomir/) | `yoonimage` | `C++` | 2023/12 | - |
-Deep Learning     | [maroomir](https://github.com/maroomir/) | `MetaArtServer2` | `python` | 2024/06 | [public](https://github.com/maroomir/MetaArtServer)

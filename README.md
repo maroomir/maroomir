@@ -41,5 +41,7 @@ ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-iToFCameraVi
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-DepthCameraLauncer` | `C++` | 2023/09 | -
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-QRCameraLauncer` | `C++` | 2023/10 | -
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-SNPEObjectDetector` | `C++` | 2023/12 | -
-ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-DCUControlLauncer` | `C++` | 2024/06 | -
 Library           | [maroomir](https://github.com/maroomir/) | `yoonimage` | `C++` | 2023/12 | - |
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-DCUControlLauncer` | `C++` | 2024/06 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-KAMRControllers` | `C++` | 2024/08 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-KAMRBehaviors` | `C++` | 2024/10 | -

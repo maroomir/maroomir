@@ -45,3 +45,5 @@ Library           | [maroomir](https://github.com/maroomir/) | `yoonimage` | `C+
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-DCUControlLauncer` | `C++` | 2024/06 | -
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-KAMRControllers` | `C++` | 2024/08 | -
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-KAMRBehaviors` | `C++` | 2024/10 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-KAMRPoseEstimator` | `C++` | 2025/05 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `AMRVision` | `C++` | 2025/09 | -

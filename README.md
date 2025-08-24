@@ -47,3 +47,4 @@ ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-KAMRControll
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-KAMRBehaviors` | `C++` | 2024/10 | -
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `ROS2-KAMRPoseEstimator` | `C++` | 2025/05 | -
 ROS Application   | [Samsung](https://www.samsung.com/sec/) | `AMRVision` | `C++` | 2025/09 | -
+ROS Application   | [Samsung](https://www.samsung.com/sec/) | `AMRXMS` | `C++` | 2025/11 | -

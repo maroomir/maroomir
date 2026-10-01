@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="title">
+  <title id="title">Maroomir Yoon — Industrial &amp; robotics vision developer</title>
+  <defs>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#17191c" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="12" fill="#0b0c0e"/>
+  <rect width="1200" height="340" rx="12" fill="url(#grid)"/>
+
+  <!-- viewfinder frame corners -->
+  <g fill="none" stroke="#8f8b83" stroke-width="3">
+    <path d="M24 64V24H64"/>
+    <path d="M1136 24H1176V64"/>
+    <path d="M24 276V316H64"/>
+    <path d="M1136 316H1176V276"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">
+    <circle cx="90" cy="68" r="6" fill="#ff3b30">
+      <animate attributeName="opacity" values="1;1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="106" y="73" fill="#e9e6df">REC · MAROOMIR</text>
+    <text x="1110" y="73" fill="#f5a524" text-anchor="end">AF · ON-DEVICE</text>
+
+    <text x="600" y="112" fill="#8f8b83" font-size="13" letter-spacing="3" text-anchor="middle">FOCUS LOCKED · SUBJECT</text>
+
+    <text x="90" y="284" fill="#8f8b83" font-size="13">LANG <tspan fill="#c9c5bb">C++ · C# · PYTHON</tspan></text>
+    <text x="600" y="284" fill="#8f8b83" font-size="13" text-anchor="middle">SINCE <tspan fill="#c9c5bb">2013</tspan></text>
+    <text x="1110" y="284" fill="#8f8b83" font-size="13" text-anchor="end">STACK <tspan fill="#c9c5bb">ROS2 · OPENCV · SNPE</tspan></text>
+  </g>
+
+  <!-- focus brackets around the name -->
+  <g fill="none" stroke="#f5a524" stroke-width="3">
+    <path d="M300 160V132H328"/>
+    <path d="M872 132H900V160"/>
+    <path d="M300 188V216H328"/>
+    <path d="M872 216H900V188"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="193" fill="#e9e6df" font-size="54" font-weight="700" letter-spacing="3">MAROOMIR YOON</text>
+    <text x="600" y="250" fill="#c9c5bb" font-size="20">Industrial &amp; robotics vision developer</text>
+  </g>
+</svg>

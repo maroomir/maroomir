@@ -1,6 +1,10 @@
-# Maroomir Yoon
-
-Industrial & robotics vision developer · since 2013
+<a href="https://maroomir.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" alt="Maroomir Yoon — Industrial & robotics vision developer, since 2013" width="100%">
+  </picture>
+</a>
 
 **Path**
 

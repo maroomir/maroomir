@@ -8,7 +8,11 @@
 
 **Path**
 
-Top Engineering → AP Systems → LG Innotek → LG Electronics → Samsung Electronics<br>
+- Top Engineering 
+- AP Systems 
+- LG Innotek 
+- LG Electronics 
+- Samsung Electronics<br>
 (+ M.S. in Artificial Intelligence, Yonsei University)
 
 **Work**
